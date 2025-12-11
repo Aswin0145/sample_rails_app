@@ -33,4 +33,4 @@ jobs:
         # run: sudo boman-cli-uat -a run -u https://qa.boman.ai -at 934d74a9-7ff0-49c3-bc40-7fcd61738580 -ct 48bbf89e-b5c7-419e-8f56-6f00b53a6a86
         # run: sudo boman-cli-uat -a run -u https://qa.boman.ai -at "$APP" -ct "$USER"
         # run: sudo boman-cli-uat -a run  -u https://qa.boman.ai
-        run: sudo boman-cli -a run -u https://qa.boman.ai -at 12b07064-ed9c-48e8-ae84-6f1b63dbdde5 -ct 48bbf89e-b5c7-419e-8f56-6f00b53a6a86
+        run: sudo boman-cli -a run -u https://qa.boman.ai -at 6012ff75-8526-4d1e-9f61-50ef5885bcd9 -ct b93b0db3-ed63-4dac-85c4-19d7b99d716e
